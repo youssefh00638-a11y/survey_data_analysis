@@ -127,8 +127,3 @@ The raw dataset required extensive preprocessing before analysis:
 **Youssef Magdy**  
  Data Analyst | Passionate about turning data into insights
 
----
-
-##  If you found this useful
-
-Feel free to star the repository and share your feedback!
